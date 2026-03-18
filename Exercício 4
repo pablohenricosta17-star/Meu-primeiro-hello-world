@@ -1,0 +1,6 @@
+# 4 Dobro e triplo: Leia um número e mostre o seu dobro e seu triplo.
+
+num = float(input("Digite o numero desejavel "))
+db = num * 2
+tp = num * 3
+print("O dobro de", num, "é", db, "e o triplo é", tp )

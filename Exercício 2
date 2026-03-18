@@ -1,0 +1,6 @@
+#2 Conversor de Medidas: Crie um programa que receba um valor em metros e os exiba convertidos em centímetros e milimetros.
+
+m = float(input("Digite o metro"))
+cm = m * 100
+mm = m * 1000
+print("metro em cm é", cm, "e em mm", mm)

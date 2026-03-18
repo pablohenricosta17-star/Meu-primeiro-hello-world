@@ -1,0 +1,5 @@
+#6 Reajuste salarial: Leia o salário de um funcionário e calcule o novo valor com 15% de aumento.
+
+sal = float(input("Digite seu salario anterior "))
+reaj = 1.15 * sal
+print("O salario atual será de", reaj)
